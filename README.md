@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Beatrice, I am italian and I have a Bachelor Degree in **Mathematics for Engineering** and a Master's Degree in **Data Science and Engineering** at Politecnico di Torino. I love coding and traveling! Always looking for new ⚡opportunities⚡.
+
+### Projects
+
+[Question Answering with BERTserini] (https://github.com/beatricemacchia/QuestionAnswering): An end-to-end open-domain Question Answering system. It integrates a BERT reader with the open-source Anserini information retrieval toolkit.
+
 <!--
 **beatricemacchia/beatricemacchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
