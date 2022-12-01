@@ -4,7 +4,7 @@ I am Beatrice, I am italian and I have a Bachelor Degree in **Mathematics for En
 
 ## Projects
 
-- [Question Answering with BERTserini]: An end-to-end open-domain Question Answering system. It integrates a BERT reader with the open-source Anserini information retrieval toolkit.
+- [Question Answering with BERTserini]: A reproduction of an end-to-end open-domain Question Answering system. It integrates a BERT reader with the open-source Anserini information retrieval toolkit.
 
 [Question Answering with BERTserini]: https://github.com/beatricemacchia/QuestionAnswering
 
